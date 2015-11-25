@@ -1,3 +1,3 @@
 # CollisionsGallore
 
-...MORE TO COME
+SEE RELEASE/ FOR EXE FILE ...DESCRIPTION TO COME
