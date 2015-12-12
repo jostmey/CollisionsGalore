@@ -11,7 +11,7 @@ Shoot a billiard ball at a crowd of other billiard balls in 3D space. The progra
 
 ## Requirements
 
-A windows machine that supports the Win32 environment, such as Windows XP.
+An operating system that supports the Win32 environment, such as Windows XP.
 
 ## Run
 
