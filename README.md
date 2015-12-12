@@ -15,4 +15,4 @@ A windows machine that supports the Win32 environment, such as Windows XP.
 
 ## Run
 
-Open up the folder `Release` and run the executable file `CollisionsGallore`. Once the program starts running, use the arrows keys to adjust the view. Hit the spacebar to fire your billiard ball.
+Open up the folder `Release/` and run the executable file `CollisionsGallore`. Once the program starts running, use the arrows keys to adjust the view. Hit the spacebar to fire your billiard ball.
