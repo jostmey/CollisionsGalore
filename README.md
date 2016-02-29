@@ -6,8 +6,8 @@ Shoot a billiard ball at a crowd of other billiard balls in 3D space. The progra
 
 ## Download
 
-* Download: [zip](https://github.com/jostmey/CollisionsGallore/zipball/master)
-* Git: `git clone https://github.com/jostmey/CollisionsGallore`
+* Download: [zip](https://github.com/jostmey/CollisionsGalore/zipball/master)
+* Git: `git clone https://github.com/jostmey/CollisionsGalore`
 
 ## Requirements
 
